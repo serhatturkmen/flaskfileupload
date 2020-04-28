@@ -1,4 +1,4 @@
-# flaskfileupload
+# flask file upload (Veritabanı dosya yükleme mantığı)
 Flask kullanarak veritabanına dosya yükleme
 
 -Gösterme
