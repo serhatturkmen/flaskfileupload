@@ -7,5 +7,7 @@ Flask kullanarak veritabanına dosya yükleme
 
 -Yükleme
 
-# Sqlite3
-# Flask
+# include
+Sqlite3
+
+Flask
