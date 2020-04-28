@@ -33,7 +33,7 @@ def download(data):
 @app.route('/show/<int:data>')
 def show(data):
     file_data = FileContents.query.filter_by(id=data).first()
-    return show(BytesIO(file_data.data), attachment_filename=file_data.name, as_attachment=True)
+    return show(BytesIO(file_data.data), attachment_filename=file_data.name, as_attachment=False)
 
 
 if __name__ == '__main__':
