@@ -1,8 +1,11 @@
 # flaskfileupload
 Flask kullanarak veritabanına dosya yükleme
+
 -Gösterme
+
 -İndirme
+
 -Yükleme
 
-#Sqlite3
-#Flask
+# Sqlite3
+# Flask
